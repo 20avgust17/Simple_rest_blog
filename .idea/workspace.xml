@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65068630-360c-45b2-8e1e-f80f7ae052a5" name="Changes" comment="first comit">
-      <change beforePath="$PROJECT_DIR$/../my_shop/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_shop/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_shop/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_shop/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_shop/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_shop/.idea/my_shop.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_shop/.idea/vcs.xml" beforeDir="false" />
+    <list default="true" id="65068630-360c-45b2-8e1e-f80f7ae052a5" name="Changes" comment="test_case">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +20,29 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/article/views.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -124,7 +139,7 @@
       <workItem from="1672601893764" duration="1781000" />
       <workItem from="1672667430001" duration="6508000" />
       <workItem from="1672687858213" duration="10978000" />
-      <workItem from="1672769182639" duration="3577000" />
+      <workItem from="1672769182639" duration="4940000" />
     </task>
     <task id="LOCAL-00001" summary="test_case">
       <created>1672771498437</created>
@@ -133,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672771498437</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test_case">
+      <created>1672773578888</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672773578888</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
